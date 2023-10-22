@@ -1,12 +1,10 @@
 {
-    "imap": [
-        {
-            "host": "imapmail.libero.it",
-            "port": 993
-        },
-        {
-            "host": "imap.another-example.com",
-            "port": 143
-        }
-    ]
+    "libero": {
+        "host": "imapmail.libero.it",
+        "port": 993
+    },
+    "imap2": {
+        "host": "anotherexample.com",
+        "port": 143
+    }
 }
