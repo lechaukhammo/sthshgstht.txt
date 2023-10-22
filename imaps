@@ -1,0 +1,12 @@
+{
+    "imap": [
+        {
+            "host": "imapmail.libero.it",
+            "port": 993
+        },
+        {
+            "host": "imap.another-example.com",
+            "port": 143
+        }
+    ]
+}
